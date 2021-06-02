@@ -1,0 +1,3 @@
+C:\Users\mguaz\source\repos\ApiMockeada\obj\Debug\ApiMockeada.njsprojAssemblyReference.cache
+C:\Users\mguaz\source\repos\ApiMockeada\obj\Debug\ApiMockeada.njsproj.CoreCompileInputs.cache
+C:\Users\mguaz\source\repos\ApiMockeada\bin\Microsoft.NodejsTools.WebRole.dll
